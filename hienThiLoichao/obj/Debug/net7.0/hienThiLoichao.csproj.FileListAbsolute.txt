@@ -1,0 +1,14 @@
+D:\C#\baitap\hienThiLoichao\obj\Debug\net7.0\hienThiLoichao.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\baitap\hienThiLoichao\obj\Debug\net7.0\hienThiLoichao.AssemblyInfoInputs.cache
+D:\C#\baitap\hienThiLoichao\obj\Debug\net7.0\hienThiLoichao.AssemblyInfo.cs
+D:\C#\baitap\hienThiLoichao\obj\Debug\net7.0\hienThiLoichao.csproj.CoreCompileInputs.cache
+D:\C#\baitap\hienThiLoichao\bin\Debug\net7.0\hienThiLoichao.exe
+D:\C#\baitap\hienThiLoichao\bin\Debug\net7.0\hienThiLoichao.deps.json
+D:\C#\baitap\hienThiLoichao\bin\Debug\net7.0\hienThiLoichao.runtimeconfig.json
+D:\C#\baitap\hienThiLoichao\bin\Debug\net7.0\hienThiLoichao.dll
+D:\C#\baitap\hienThiLoichao\bin\Debug\net7.0\hienThiLoichao.pdb
+D:\C#\baitap\hienThiLoichao\obj\Debug\net7.0\hienThiLoichao.dll
+D:\C#\baitap\hienThiLoichao\obj\Debug\net7.0\refint\hienThiLoichao.dll
+D:\C#\baitap\hienThiLoichao\obj\Debug\net7.0\hienThiLoichao.pdb
+D:\C#\baitap\hienThiLoichao\obj\Debug\net7.0\hienThiLoichao.genruntimeconfig.cache
+D:\C#\baitap\hienThiLoichao\obj\Debug\net7.0\ref\hienThiLoichao.dll

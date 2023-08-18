@@ -1,0 +1,14 @@
+D:\C#\baitap\hienthithoigian\bin\Debug\net7.0\hienthithoigian.exe
+D:\C#\baitap\hienthithoigian\bin\Debug\net7.0\hienthithoigian.deps.json
+D:\C#\baitap\hienthithoigian\bin\Debug\net7.0\hienthithoigian.runtimeconfig.json
+D:\C#\baitap\hienthithoigian\bin\Debug\net7.0\hienthithoigian.dll
+D:\C#\baitap\hienthithoigian\bin\Debug\net7.0\hienthithoigian.pdb
+D:\C#\baitap\hienthithoigian\obj\Debug\net7.0\hienthithoigian.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\baitap\hienthithoigian\obj\Debug\net7.0\hienthithoigian.AssemblyInfoInputs.cache
+D:\C#\baitap\hienthithoigian\obj\Debug\net7.0\hienthithoigian.AssemblyInfo.cs
+D:\C#\baitap\hienthithoigian\obj\Debug\net7.0\hienthithoigian.csproj.CoreCompileInputs.cache
+D:\C#\baitap\hienthithoigian\obj\Debug\net7.0\hienthithoigian.dll
+D:\C#\baitap\hienthithoigian\obj\Debug\net7.0\refint\hienthithoigian.dll
+D:\C#\baitap\hienthithoigian\obj\Debug\net7.0\hienthithoigian.pdb
+D:\C#\baitap\hienthithoigian\obj\Debug\net7.0\hienthithoigian.genruntimeconfig.cache
+D:\C#\baitap\hienthithoigian\obj\Debug\net7.0\ref\hienthithoigian.dll

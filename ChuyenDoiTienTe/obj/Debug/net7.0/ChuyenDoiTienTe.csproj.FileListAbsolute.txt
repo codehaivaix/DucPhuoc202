@@ -1,0 +1,14 @@
+D:\C#\baitap\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\baitap\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.AssemblyInfoInputs.cache
+D:\C#\baitap\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.AssemblyInfo.cs
+D:\C#\baitap\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.csproj.CoreCompileInputs.cache
+D:\C#\baitap\ChuyenDoiTienTe\bin\Debug\net7.0\ChuyenDoiTienTe.exe
+D:\C#\baitap\ChuyenDoiTienTe\bin\Debug\net7.0\ChuyenDoiTienTe.deps.json
+D:\C#\baitap\ChuyenDoiTienTe\bin\Debug\net7.0\ChuyenDoiTienTe.runtimeconfig.json
+D:\C#\baitap\ChuyenDoiTienTe\bin\Debug\net7.0\ChuyenDoiTienTe.dll
+D:\C#\baitap\ChuyenDoiTienTe\bin\Debug\net7.0\ChuyenDoiTienTe.pdb
+D:\C#\baitap\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.dll
+D:\C#\baitap\ChuyenDoiTienTe\obj\Debug\net7.0\refint\ChuyenDoiTienTe.dll
+D:\C#\baitap\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.pdb
+D:\C#\baitap\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.genruntimeconfig.cache
+D:\C#\baitap\ChuyenDoiTienTe\obj\Debug\net7.0\ref\ChuyenDoiTienTe.dll
