@@ -1,0 +1,14 @@
+D:\C#\docso\obj\Debug\net7.0\docso.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\docso\obj\Debug\net7.0\docso.AssemblyInfoInputs.cache
+D:\C#\docso\obj\Debug\net7.0\docso.AssemblyInfo.cs
+D:\C#\docso\obj\Debug\net7.0\docso.csproj.CoreCompileInputs.cache
+D:\C#\docso\bin\Debug\net7.0\docso.exe
+D:\C#\docso\bin\Debug\net7.0\docso.deps.json
+D:\C#\docso\bin\Debug\net7.0\docso.runtimeconfig.json
+D:\C#\docso\bin\Debug\net7.0\docso.dll
+D:\C#\docso\bin\Debug\net7.0\docso.pdb
+D:\C#\docso\obj\Debug\net7.0\docso.dll
+D:\C#\docso\obj\Debug\net7.0\refint\docso.dll
+D:\C#\docso\obj\Debug\net7.0\docso.pdb
+D:\C#\docso\obj\Debug\net7.0\docso.genruntimeconfig.cache
+D:\C#\docso\obj\Debug\net7.0\ref\docso.dll

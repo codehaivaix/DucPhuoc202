@@ -1,0 +1,14 @@
+D:\C#\ktsonguyento\obj\Debug\net7.0\ktsonguyento.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ktsonguyento\obj\Debug\net7.0\ktsonguyento.AssemblyInfoInputs.cache
+D:\C#\ktsonguyento\obj\Debug\net7.0\ktsonguyento.AssemblyInfo.cs
+D:\C#\ktsonguyento\obj\Debug\net7.0\ktsonguyento.csproj.CoreCompileInputs.cache
+D:\C#\ktsonguyento\bin\Debug\net7.0\ktsonguyento.exe
+D:\C#\ktsonguyento\bin\Debug\net7.0\ktsonguyento.deps.json
+D:\C#\ktsonguyento\bin\Debug\net7.0\ktsonguyento.runtimeconfig.json
+D:\C#\ktsonguyento\bin\Debug\net7.0\ktsonguyento.dll
+D:\C#\ktsonguyento\bin\Debug\net7.0\ktsonguyento.pdb
+D:\C#\ktsonguyento\obj\Debug\net7.0\ktsonguyento.dll
+D:\C#\ktsonguyento\obj\Debug\net7.0\refint\ktsonguyento.dll
+D:\C#\ktsonguyento\obj\Debug\net7.0\ktsonguyento.pdb
+D:\C#\ktsonguyento\obj\Debug\net7.0\ktsonguyento.genruntimeconfig.cache
+D:\C#\ktsonguyento\obj\Debug\net7.0\ref\ktsonguyento.dll

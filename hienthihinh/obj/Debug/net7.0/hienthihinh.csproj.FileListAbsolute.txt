@@ -1,0 +1,14 @@
+D:\C#\hienthihinh\obj\Debug\net7.0\hienthihinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\hienthihinh\obj\Debug\net7.0\hienthihinh.AssemblyInfoInputs.cache
+D:\C#\hienthihinh\obj\Debug\net7.0\hienthihinh.AssemblyInfo.cs
+D:\C#\hienthihinh\obj\Debug\net7.0\hienthihinh.csproj.CoreCompileInputs.cache
+D:\C#\hienthihinh\bin\Debug\net7.0\hienthihinh.exe
+D:\C#\hienthihinh\bin\Debug\net7.0\hienthihinh.deps.json
+D:\C#\hienthihinh\bin\Debug\net7.0\hienthihinh.runtimeconfig.json
+D:\C#\hienthihinh\bin\Debug\net7.0\hienthihinh.dll
+D:\C#\hienthihinh\bin\Debug\net7.0\hienthihinh.pdb
+D:\C#\hienthihinh\obj\Debug\net7.0\hienthihinh.dll
+D:\C#\hienthihinh\obj\Debug\net7.0\refint\hienthihinh.dll
+D:\C#\hienthihinh\obj\Debug\net7.0\hienthihinh.pdb
+D:\C#\hienthihinh\obj\Debug\net7.0\hienthihinh.genruntimeconfig.cache
+D:\C#\hienthihinh\obj\Debug\net7.0\ref\hienthihinh.dll

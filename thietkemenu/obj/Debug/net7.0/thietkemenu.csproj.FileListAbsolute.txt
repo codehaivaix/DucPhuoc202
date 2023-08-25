@@ -1,0 +1,14 @@
+D:\C#\thietkemenu\bin\Debug\net7.0\thietkemenu.exe
+D:\C#\thietkemenu\bin\Debug\net7.0\thietkemenu.deps.json
+D:\C#\thietkemenu\bin\Debug\net7.0\thietkemenu.runtimeconfig.json
+D:\C#\thietkemenu\bin\Debug\net7.0\thietkemenu.dll
+D:\C#\thietkemenu\bin\Debug\net7.0\thietkemenu.pdb
+D:\C#\thietkemenu\obj\Debug\net7.0\thietkemenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\thietkemenu\obj\Debug\net7.0\thietkemenu.AssemblyInfoInputs.cache
+D:\C#\thietkemenu\obj\Debug\net7.0\thietkemenu.AssemblyInfo.cs
+D:\C#\thietkemenu\obj\Debug\net7.0\thietkemenu.csproj.CoreCompileInputs.cache
+D:\C#\thietkemenu\obj\Debug\net7.0\thietkemenu.dll
+D:\C#\thietkemenu\obj\Debug\net7.0\refint\thietkemenu.dll
+D:\C#\thietkemenu\obj\Debug\net7.0\thietkemenu.pdb
+D:\C#\thietkemenu\obj\Debug\net7.0\thietkemenu.genruntimeconfig.cache
+D:\C#\thietkemenu\obj\Debug\net7.0\ref\thietkemenu.dll
