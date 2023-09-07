@@ -1,0 +1,14 @@
+D:\C#\themphantuvaomang\obj\Debug\net7.0\themphantuvaomang.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\themphantuvaomang\obj\Debug\net7.0\themphantuvaomang.AssemblyInfoInputs.cache
+D:\C#\themphantuvaomang\obj\Debug\net7.0\themphantuvaomang.AssemblyInfo.cs
+D:\C#\themphantuvaomang\obj\Debug\net7.0\themphantuvaomang.csproj.CoreCompileInputs.cache
+D:\C#\themphantuvaomang\bin\Debug\net7.0\themphantuvaomang.exe
+D:\C#\themphantuvaomang\bin\Debug\net7.0\themphantuvaomang.deps.json
+D:\C#\themphantuvaomang\bin\Debug\net7.0\themphantuvaomang.runtimeconfig.json
+D:\C#\themphantuvaomang\bin\Debug\net7.0\themphantuvaomang.dll
+D:\C#\themphantuvaomang\bin\Debug\net7.0\themphantuvaomang.pdb
+D:\C#\themphantuvaomang\obj\Debug\net7.0\themphantuvaomang.dll
+D:\C#\themphantuvaomang\obj\Debug\net7.0\refint\themphantuvaomang.dll
+D:\C#\themphantuvaomang\obj\Debug\net7.0\themphantuvaomang.pdb
+D:\C#\themphantuvaomang\obj\Debug\net7.0\themphantuvaomang.genruntimeconfig.cache
+D:\C#\themphantuvaomang\obj\Debug\net7.0\ref\themphantuvaomang.dll

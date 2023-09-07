@@ -1,0 +1,14 @@
+D:\C#\timgiatritrongmang\bin\Debug\net7.0\timgiatritrongmang.exe
+D:\C#\timgiatritrongmang\bin\Debug\net7.0\timgiatritrongmang.deps.json
+D:\C#\timgiatritrongmang\bin\Debug\net7.0\timgiatritrongmang.runtimeconfig.json
+D:\C#\timgiatritrongmang\bin\Debug\net7.0\timgiatritrongmang.dll
+D:\C#\timgiatritrongmang\bin\Debug\net7.0\timgiatritrongmang.pdb
+D:\C#\timgiatritrongmang\obj\Debug\net7.0\timgiatritrongmang.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\timgiatritrongmang\obj\Debug\net7.0\timgiatritrongmang.AssemblyInfoInputs.cache
+D:\C#\timgiatritrongmang\obj\Debug\net7.0\timgiatritrongmang.AssemblyInfo.cs
+D:\C#\timgiatritrongmang\obj\Debug\net7.0\timgiatritrongmang.csproj.CoreCompileInputs.cache
+D:\C#\timgiatritrongmang\obj\Debug\net7.0\timgiatritrongmang.dll
+D:\C#\timgiatritrongmang\obj\Debug\net7.0\refint\timgiatritrongmang.dll
+D:\C#\timgiatritrongmang\obj\Debug\net7.0\timgiatritrongmang.pdb
+D:\C#\timgiatritrongmang\obj\Debug\net7.0\timgiatritrongmang.genruntimeconfig.cache
+D:\C#\timgiatritrongmang\obj\Debug\net7.0\ref\timgiatritrongmang.dll

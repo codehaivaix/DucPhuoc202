@@ -1,0 +1,14 @@
+D:\C#\timphantulannhattrongmang2chieu\obj\Debug\net7.0\timphantulannhattrongmang2chieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\timphantulannhattrongmang2chieu\obj\Debug\net7.0\timphantulannhattrongmang2chieu.AssemblyInfoInputs.cache
+D:\C#\timphantulannhattrongmang2chieu\obj\Debug\net7.0\timphantulannhattrongmang2chieu.AssemblyInfo.cs
+D:\C#\timphantulannhattrongmang2chieu\obj\Debug\net7.0\timphantulannhattrongmang2chieu.csproj.CoreCompileInputs.cache
+D:\C#\timphantulannhattrongmang2chieu\bin\Debug\net7.0\timphantulannhattrongmang2chieu.exe
+D:\C#\timphantulannhattrongmang2chieu\bin\Debug\net7.0\timphantulannhattrongmang2chieu.deps.json
+D:\C#\timphantulannhattrongmang2chieu\bin\Debug\net7.0\timphantulannhattrongmang2chieu.runtimeconfig.json
+D:\C#\timphantulannhattrongmang2chieu\bin\Debug\net7.0\timphantulannhattrongmang2chieu.dll
+D:\C#\timphantulannhattrongmang2chieu\bin\Debug\net7.0\timphantulannhattrongmang2chieu.pdb
+D:\C#\timphantulannhattrongmang2chieu\obj\Debug\net7.0\timphantulannhattrongmang2chieu.dll
+D:\C#\timphantulannhattrongmang2chieu\obj\Debug\net7.0\refint\timphantulannhattrongmang2chieu.dll
+D:\C#\timphantulannhattrongmang2chieu\obj\Debug\net7.0\timphantulannhattrongmang2chieu.pdb
+D:\C#\timphantulannhattrongmang2chieu\obj\Debug\net7.0\timphantulannhattrongmang2chieu.genruntimeconfig.cache
+D:\C#\timphantulannhattrongmang2chieu\obj\Debug\net7.0\ref\timphantulannhattrongmang2chieu.dll

@@ -1,0 +1,14 @@
+D:\C#\tinhtongcacphantumang\bin\Debug\net7.0\tinhtongcacphantumang.exe
+D:\C#\tinhtongcacphantumang\bin\Debug\net7.0\tinhtongcacphantumang.deps.json
+D:\C#\tinhtongcacphantumang\bin\Debug\net7.0\tinhtongcacphantumang.runtimeconfig.json
+D:\C#\tinhtongcacphantumang\bin\Debug\net7.0\tinhtongcacphantumang.dll
+D:\C#\tinhtongcacphantumang\bin\Debug\net7.0\tinhtongcacphantumang.pdb
+D:\C#\tinhtongcacphantumang\obj\Debug\net7.0\tinhtongcacphantumang.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\tinhtongcacphantumang\obj\Debug\net7.0\tinhtongcacphantumang.AssemblyInfoInputs.cache
+D:\C#\tinhtongcacphantumang\obj\Debug\net7.0\tinhtongcacphantumang.AssemblyInfo.cs
+D:\C#\tinhtongcacphantumang\obj\Debug\net7.0\tinhtongcacphantumang.csproj.CoreCompileInputs.cache
+D:\C#\tinhtongcacphantumang\obj\Debug\net7.0\tinhtongcacphantumang.dll
+D:\C#\tinhtongcacphantumang\obj\Debug\net7.0\refint\tinhtongcacphantumang.dll
+D:\C#\tinhtongcacphantumang\obj\Debug\net7.0\tinhtongcacphantumang.pdb
+D:\C#\tinhtongcacphantumang\obj\Debug\net7.0\tinhtongcacphantumang.genruntimeconfig.cache
+D:\C#\tinhtongcacphantumang\obj\Debug\net7.0\ref\tinhtongcacphantumang.dll

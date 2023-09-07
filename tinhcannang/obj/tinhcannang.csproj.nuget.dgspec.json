@@ -10,18 +10,16 @@
         "projectUniqueName": "D:\\C#\\tinhcannang\\tinhcannang.csproj",
         "projectName": "tinhcannang",
         "projectPath": "D:\\C#\\tinhcannang\\tinhcannang.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\vuduc\\.nuget\\packages\\",
         "outputPath": "D:\\C#\\tinhcannang\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\vuduc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

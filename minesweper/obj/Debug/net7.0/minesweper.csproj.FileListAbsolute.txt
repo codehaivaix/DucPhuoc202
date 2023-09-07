@@ -1,0 +1,14 @@
+D:\C#\minesweper\bin\Debug\net7.0\minesweper.exe
+D:\C#\minesweper\bin\Debug\net7.0\minesweper.deps.json
+D:\C#\minesweper\bin\Debug\net7.0\minesweper.runtimeconfig.json
+D:\C#\minesweper\bin\Debug\net7.0\minesweper.dll
+D:\C#\minesweper\bin\Debug\net7.0\minesweper.pdb
+D:\C#\minesweper\obj\Debug\net7.0\minesweper.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\minesweper\obj\Debug\net7.0\minesweper.AssemblyInfoInputs.cache
+D:\C#\minesweper\obj\Debug\net7.0\minesweper.AssemblyInfo.cs
+D:\C#\minesweper\obj\Debug\net7.0\minesweper.csproj.CoreCompileInputs.cache
+D:\C#\minesweper\obj\Debug\net7.0\minesweper.dll
+D:\C#\minesweper\obj\Debug\net7.0\refint\minesweper.dll
+D:\C#\minesweper\obj\Debug\net7.0\minesweper.pdb
+D:\C#\minesweper\obj\Debug\net7.0\minesweper.genruntimeconfig.cache
+D:\C#\minesweper\obj\Debug\net7.0\ref\minesweper.dll

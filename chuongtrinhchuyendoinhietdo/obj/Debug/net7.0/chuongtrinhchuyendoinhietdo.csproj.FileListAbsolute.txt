@@ -1,0 +1,14 @@
+D:\C#\chuongtrinhchuyendoinhietdo\obj\Debug\net7.0\chuongtrinhchuyendoinhietdo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\chuongtrinhchuyendoinhietdo\obj\Debug\net7.0\chuongtrinhchuyendoinhietdo.AssemblyInfoInputs.cache
+D:\C#\chuongtrinhchuyendoinhietdo\obj\Debug\net7.0\chuongtrinhchuyendoinhietdo.AssemblyInfo.cs
+D:\C#\chuongtrinhchuyendoinhietdo\obj\Debug\net7.0\chuongtrinhchuyendoinhietdo.csproj.CoreCompileInputs.cache
+D:\C#\chuongtrinhchuyendoinhietdo\bin\Debug\net7.0\chuongtrinhchuyendoinhietdo.exe
+D:\C#\chuongtrinhchuyendoinhietdo\bin\Debug\net7.0\chuongtrinhchuyendoinhietdo.deps.json
+D:\C#\chuongtrinhchuyendoinhietdo\bin\Debug\net7.0\chuongtrinhchuyendoinhietdo.runtimeconfig.json
+D:\C#\chuongtrinhchuyendoinhietdo\bin\Debug\net7.0\chuongtrinhchuyendoinhietdo.dll
+D:\C#\chuongtrinhchuyendoinhietdo\bin\Debug\net7.0\chuongtrinhchuyendoinhietdo.pdb
+D:\C#\chuongtrinhchuyendoinhietdo\obj\Debug\net7.0\chuongtrinhchuyendoinhietdo.dll
+D:\C#\chuongtrinhchuyendoinhietdo\obj\Debug\net7.0\refint\chuongtrinhchuyendoinhietdo.dll
+D:\C#\chuongtrinhchuyendoinhietdo\obj\Debug\net7.0\chuongtrinhchuyendoinhietdo.pdb
+D:\C#\chuongtrinhchuyendoinhietdo\obj\Debug\net7.0\chuongtrinhchuyendoinhietdo.genruntimeconfig.cache
+D:\C#\chuongtrinhchuyendoinhietdo\obj\Debug\net7.0\ref\chuongtrinhchuyendoinhietdo.dll

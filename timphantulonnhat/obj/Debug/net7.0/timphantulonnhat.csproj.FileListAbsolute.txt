@@ -1,0 +1,14 @@
+D:\C#\timphantulonnhat\obj\Debug\net7.0\timphantulonnhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\timphantulonnhat\obj\Debug\net7.0\timphantulonnhat.AssemblyInfoInputs.cache
+D:\C#\timphantulonnhat\obj\Debug\net7.0\timphantulonnhat.AssemblyInfo.cs
+D:\C#\timphantulonnhat\obj\Debug\net7.0\timphantulonnhat.csproj.CoreCompileInputs.cache
+D:\C#\timphantulonnhat\bin\Debug\net7.0\timphantulonnhat.exe
+D:\C#\timphantulonnhat\bin\Debug\net7.0\timphantulonnhat.deps.json
+D:\C#\timphantulonnhat\bin\Debug\net7.0\timphantulonnhat.runtimeconfig.json
+D:\C#\timphantulonnhat\bin\Debug\net7.0\timphantulonnhat.dll
+D:\C#\timphantulonnhat\bin\Debug\net7.0\timphantulonnhat.pdb
+D:\C#\timphantulonnhat\obj\Debug\net7.0\timphantulonnhat.dll
+D:\C#\timphantulonnhat\obj\Debug\net7.0\refint\timphantulonnhat.dll
+D:\C#\timphantulonnhat\obj\Debug\net7.0\timphantulonnhat.pdb
+D:\C#\timphantulonnhat\obj\Debug\net7.0\timphantulonnhat.genruntimeconfig.cache
+D:\C#\timphantulonnhat\obj\Debug\net7.0\ref\timphantulonnhat.dll

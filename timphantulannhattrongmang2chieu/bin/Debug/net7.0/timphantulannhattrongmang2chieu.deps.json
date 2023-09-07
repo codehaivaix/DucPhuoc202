@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "timphantulannhattrongmang2chieu/1.0.0": {
+        "runtime": {
+          "timphantulannhattrongmang2chieu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "timphantulannhattrongmang2chieu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
