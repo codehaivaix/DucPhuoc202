@@ -1,0 +1,14 @@
+D:\C#\xoaphantukhoimangpt\obj\Debug\net7.0\xoaphantukhoimangpt.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\xoaphantukhoimangpt\obj\Debug\net7.0\xoaphantukhoimangpt.AssemblyInfoInputs.cache
+D:\C#\xoaphantukhoimangpt\obj\Debug\net7.0\xoaphantukhoimangpt.AssemblyInfo.cs
+D:\C#\xoaphantukhoimangpt\obj\Debug\net7.0\xoaphantukhoimangpt.csproj.CoreCompileInputs.cache
+D:\C#\xoaphantukhoimangpt\bin\Debug\net7.0\xoaphantukhoimangpt.exe
+D:\C#\xoaphantukhoimangpt\bin\Debug\net7.0\xoaphantukhoimangpt.deps.json
+D:\C#\xoaphantukhoimangpt\bin\Debug\net7.0\xoaphantukhoimangpt.runtimeconfig.json
+D:\C#\xoaphantukhoimangpt\bin\Debug\net7.0\xoaphantukhoimangpt.dll
+D:\C#\xoaphantukhoimangpt\bin\Debug\net7.0\xoaphantukhoimangpt.pdb
+D:\C#\xoaphantukhoimangpt\obj\Debug\net7.0\xoaphantukhoimangpt.dll
+D:\C#\xoaphantukhoimangpt\obj\Debug\net7.0\refint\xoaphantukhoimangpt.dll
+D:\C#\xoaphantukhoimangpt\obj\Debug\net7.0\xoaphantukhoimangpt.pdb
+D:\C#\xoaphantukhoimangpt\obj\Debug\net7.0\xoaphantukhoimangpt.genruntimeconfig.cache
+D:\C#\xoaphantukhoimangpt\obj\Debug\net7.0\ref\xoaphantukhoimangpt.dll

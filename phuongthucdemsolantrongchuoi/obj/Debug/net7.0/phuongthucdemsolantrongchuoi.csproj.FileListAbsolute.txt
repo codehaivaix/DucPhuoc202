@@ -1,0 +1,14 @@
+D:\C#\phuongthucdemsolantrongchuoi\obj\Debug\net7.0\phuongthucdemsolantrongchuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\phuongthucdemsolantrongchuoi\obj\Debug\net7.0\phuongthucdemsolantrongchuoi.AssemblyInfoInputs.cache
+D:\C#\phuongthucdemsolantrongchuoi\obj\Debug\net7.0\phuongthucdemsolantrongchuoi.AssemblyInfo.cs
+D:\C#\phuongthucdemsolantrongchuoi\obj\Debug\net7.0\phuongthucdemsolantrongchuoi.csproj.CoreCompileInputs.cache
+D:\C#\phuongthucdemsolantrongchuoi\bin\Debug\net7.0\phuongthucdemsolantrongchuoi.exe
+D:\C#\phuongthucdemsolantrongchuoi\bin\Debug\net7.0\phuongthucdemsolantrongchuoi.deps.json
+D:\C#\phuongthucdemsolantrongchuoi\bin\Debug\net7.0\phuongthucdemsolantrongchuoi.runtimeconfig.json
+D:\C#\phuongthucdemsolantrongchuoi\bin\Debug\net7.0\phuongthucdemsolantrongchuoi.dll
+D:\C#\phuongthucdemsolantrongchuoi\bin\Debug\net7.0\phuongthucdemsolantrongchuoi.pdb
+D:\C#\phuongthucdemsolantrongchuoi\obj\Debug\net7.0\phuongthucdemsolantrongchuoi.dll
+D:\C#\phuongthucdemsolantrongchuoi\obj\Debug\net7.0\refint\phuongthucdemsolantrongchuoi.dll
+D:\C#\phuongthucdemsolantrongchuoi\obj\Debug\net7.0\phuongthucdemsolantrongchuoi.pdb
+D:\C#\phuongthucdemsolantrongchuoi\obj\Debug\net7.0\phuongthucdemsolantrongchuoi.genruntimeconfig.cache
+D:\C#\phuongthucdemsolantrongchuoi\obj\Debug\net7.0\ref\phuongthucdemsolantrongchuoi.dll
