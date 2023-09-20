@@ -1,0 +1,14 @@
+D:\C#\static method\bin\Debug\net7.0\static method.exe
+D:\C#\static method\bin\Debug\net7.0\static method.deps.json
+D:\C#\static method\bin\Debug\net7.0\static method.runtimeconfig.json
+D:\C#\static method\bin\Debug\net7.0\static method.dll
+D:\C#\static method\bin\Debug\net7.0\static method.pdb
+D:\C#\static method\obj\Debug\net7.0\static method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\static method\obj\Debug\net7.0\static method.AssemblyInfoInputs.cache
+D:\C#\static method\obj\Debug\net7.0\static method.AssemblyInfo.cs
+D:\C#\static method\obj\Debug\net7.0\static method.csproj.CoreCompileInputs.cache
+D:\C#\static method\obj\Debug\net7.0\static method.dll
+D:\C#\static method\obj\Debug\net7.0\refint\static method.dll
+D:\C#\static method\obj\Debug\net7.0\static method.pdb
+D:\C#\static method\obj\Debug\net7.0\static method.genruntimeconfig.cache
+D:\C#\static method\obj\Debug\net7.0\ref\static method.dll

@@ -1,0 +1,14 @@
+D:\C#\Circle and cylinder\obj\Debug\net7.0\Circle and cylinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Circle and cylinder\obj\Debug\net7.0\Circle and cylinder.AssemblyInfoInputs.cache
+D:\C#\Circle and cylinder\obj\Debug\net7.0\Circle and cylinder.AssemblyInfo.cs
+D:\C#\Circle and cylinder\obj\Debug\net7.0\Circle and cylinder.csproj.CoreCompileInputs.cache
+D:\C#\Circle and cylinder\bin\Debug\net7.0\Circle and cylinder.exe
+D:\C#\Circle and cylinder\bin\Debug\net7.0\Circle and cylinder.deps.json
+D:\C#\Circle and cylinder\bin\Debug\net7.0\Circle and cylinder.runtimeconfig.json
+D:\C#\Circle and cylinder\bin\Debug\net7.0\Circle and cylinder.dll
+D:\C#\Circle and cylinder\bin\Debug\net7.0\Circle and cylinder.pdb
+D:\C#\Circle and cylinder\obj\Debug\net7.0\Circle and cylinder.dll
+D:\C#\Circle and cylinder\obj\Debug\net7.0\refint\Circle and cylinder.dll
+D:\C#\Circle and cylinder\obj\Debug\net7.0\Circle and cylinder.pdb
+D:\C#\Circle and cylinder\obj\Debug\net7.0\Circle and cylinder.genruntimeconfig.cache
+D:\C#\Circle and cylinder\obj\Debug\net7.0\ref\Circle and cylinder.dll

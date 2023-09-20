@@ -1,0 +1,14 @@
+D:\C#\point2d3d\obj\Debug\net7.0\point2d3d.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\point2d3d\obj\Debug\net7.0\point2d3d.AssemblyInfoInputs.cache
+D:\C#\point2d3d\obj\Debug\net7.0\point2d3d.AssemblyInfo.cs
+D:\C#\point2d3d\obj\Debug\net7.0\point2d3d.csproj.CoreCompileInputs.cache
+D:\C#\point2d3d\bin\Debug\net7.0\point2d3d.exe
+D:\C#\point2d3d\bin\Debug\net7.0\point2d3d.deps.json
+D:\C#\point2d3d\bin\Debug\net7.0\point2d3d.runtimeconfig.json
+D:\C#\point2d3d\bin\Debug\net7.0\point2d3d.dll
+D:\C#\point2d3d\bin\Debug\net7.0\point2d3d.pdb
+D:\C#\point2d3d\obj\Debug\net7.0\point2d3d.dll
+D:\C#\point2d3d\obj\Debug\net7.0\refint\point2d3d.dll
+D:\C#\point2d3d\obj\Debug\net7.0\point2d3d.pdb
+D:\C#\point2d3d\obj\Debug\net7.0\point2d3d.genruntimeconfig.cache
+D:\C#\point2d3d\obj\Debug\net7.0\ref\point2d3d.dll

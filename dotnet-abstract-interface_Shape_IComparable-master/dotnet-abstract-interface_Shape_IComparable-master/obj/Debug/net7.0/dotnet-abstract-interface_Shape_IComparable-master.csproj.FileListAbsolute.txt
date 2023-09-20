@@ -1,0 +1,14 @@
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\bin\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.exe
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\bin\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.deps.json
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\bin\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.runtimeconfig.json
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\bin\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.dll
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\bin\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.pdb
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\obj\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\obj\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.AssemblyInfoInputs.cache
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\obj\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.AssemblyInfo.cs
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\obj\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.csproj.CoreCompileInputs.cache
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\obj\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.dll
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\obj\Debug\net7.0\refint\dotnet-abstract-interface_Shape_IComparable-master.dll
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\obj\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.pdb
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\obj\Debug\net7.0\dotnet-abstract-interface_Shape_IComparable-master.genruntimeconfig.cache
+D:\C#\dotnet-abstract-interface_Shape_IComparable-master\dotnet-abstract-interface_Shape_IComparable-master\obj\Debug\net7.0\ref\dotnet-abstract-interface_Shape_IComparable-master.dll

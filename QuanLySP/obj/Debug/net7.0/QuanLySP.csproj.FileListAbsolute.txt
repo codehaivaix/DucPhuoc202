@@ -1,0 +1,14 @@
+D:\C#\QuanLySP\bin\Debug\net7.0\QuanLySP.exe
+D:\C#\QuanLySP\bin\Debug\net7.0\QuanLySP.deps.json
+D:\C#\QuanLySP\bin\Debug\net7.0\QuanLySP.runtimeconfig.json
+D:\C#\QuanLySP\bin\Debug\net7.0\QuanLySP.dll
+D:\C#\QuanLySP\bin\Debug\net7.0\QuanLySP.pdb
+D:\C#\QuanLySP\obj\Debug\net7.0\QuanLySP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\QuanLySP\obj\Debug\net7.0\QuanLySP.AssemblyInfoInputs.cache
+D:\C#\QuanLySP\obj\Debug\net7.0\QuanLySP.AssemblyInfo.cs
+D:\C#\QuanLySP\obj\Debug\net7.0\QuanLySP.csproj.CoreCompileInputs.cache
+D:\C#\QuanLySP\obj\Debug\net7.0\QuanLySP.dll
+D:\C#\QuanLySP\obj\Debug\net7.0\refint\QuanLySP.dll
+D:\C#\QuanLySP\obj\Debug\net7.0\QuanLySP.pdb
+D:\C#\QuanLySP\obj\Debug\net7.0\QuanLySP.genruntimeconfig.cache
+D:\C#\QuanLySP\obj\Debug\net7.0\ref\QuanLySP.dll

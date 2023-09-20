@@ -1,0 +1,14 @@
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\bin\Debug\net7.0\dotnet-abstract-interface_shape-master.exe
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\bin\Debug\net7.0\dotnet-abstract-interface_shape-master.deps.json
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\bin\Debug\net7.0\dotnet-abstract-interface_shape-master.runtimeconfig.json
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\bin\Debug\net7.0\dotnet-abstract-interface_shape-master.dll
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\bin\Debug\net7.0\dotnet-abstract-interface_shape-master.pdb
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\obj\Debug\net7.0\dotnet-abstract-interface_shape-master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\obj\Debug\net7.0\dotnet-abstract-interface_shape-master.AssemblyInfoInputs.cache
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\obj\Debug\net7.0\dotnet-abstract-interface_shape-master.AssemblyInfo.cs
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\obj\Debug\net7.0\dotnet-abstract-interface_shape-master.csproj.CoreCompileInputs.cache
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\obj\Debug\net7.0\dotnet-abstract-interface_shape-master.dll
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\obj\Debug\net7.0\refint\dotnet-abstract-interface_shape-master.dll
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\obj\Debug\net7.0\dotnet-abstract-interface_shape-master.pdb
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\obj\Debug\net7.0\dotnet-abstract-interface_shape-master.genruntimeconfig.cache
+C:\Users\vuduc\Downloads\dotnet-abstract-interface_shape-master\dotnet-abstract-interface_shape-master\obj\Debug\net7.0\ref\dotnet-abstract-interface_shape-master.dll

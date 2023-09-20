@@ -1,0 +1,14 @@
+D:\C#\IndexOutOfRangeException\bin\Debug\net7.0\IndexOutOfRangeException.exe
+D:\C#\IndexOutOfRangeException\bin\Debug\net7.0\IndexOutOfRangeException.deps.json
+D:\C#\IndexOutOfRangeException\bin\Debug\net7.0\IndexOutOfRangeException.runtimeconfig.json
+D:\C#\IndexOutOfRangeException\bin\Debug\net7.0\IndexOutOfRangeException.dll
+D:\C#\IndexOutOfRangeException\bin\Debug\net7.0\IndexOutOfRangeException.pdb
+D:\C#\IndexOutOfRangeException\obj\Debug\net7.0\IndexOutOfRangeException.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\IndexOutOfRangeException\obj\Debug\net7.0\IndexOutOfRangeException.AssemblyInfoInputs.cache
+D:\C#\IndexOutOfRangeException\obj\Debug\net7.0\IndexOutOfRangeException.AssemblyInfo.cs
+D:\C#\IndexOutOfRangeException\obj\Debug\net7.0\IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+D:\C#\IndexOutOfRangeException\obj\Debug\net7.0\IndexOutOfRangeException.dll
+D:\C#\IndexOutOfRangeException\obj\Debug\net7.0\refint\IndexOutOfRangeException.dll
+D:\C#\IndexOutOfRangeException\obj\Debug\net7.0\IndexOutOfRangeException.pdb
+D:\C#\IndexOutOfRangeException\obj\Debug\net7.0\IndexOutOfRangeException.genruntimeconfig.cache
+D:\C#\IndexOutOfRangeException\obj\Debug\net7.0\ref\IndexOutOfRangeException.dll

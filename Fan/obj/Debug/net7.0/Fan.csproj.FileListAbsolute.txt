@@ -1,0 +1,14 @@
+D:\C#\Fan\bin\Debug\net7.0\Fan.exe
+D:\C#\Fan\bin\Debug\net7.0\Fan.deps.json
+D:\C#\Fan\bin\Debug\net7.0\Fan.runtimeconfig.json
+D:\C#\Fan\bin\Debug\net7.0\Fan.dll
+D:\C#\Fan\bin\Debug\net7.0\Fan.pdb
+D:\C#\Fan\obj\Debug\net7.0\Fan.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Fan\obj\Debug\net7.0\Fan.AssemblyInfoInputs.cache
+D:\C#\Fan\obj\Debug\net7.0\Fan.AssemblyInfo.cs
+D:\C#\Fan\obj\Debug\net7.0\Fan.csproj.CoreCompileInputs.cache
+D:\C#\Fan\obj\Debug\net7.0\Fan.dll
+D:\C#\Fan\obj\Debug\net7.0\refint\Fan.dll
+D:\C#\Fan\obj\Debug\net7.0\Fan.pdb
+D:\C#\Fan\obj\Debug\net7.0\Fan.genruntimeconfig.cache
+D:\C#\Fan\obj\Debug\net7.0\ref\Fan.dll

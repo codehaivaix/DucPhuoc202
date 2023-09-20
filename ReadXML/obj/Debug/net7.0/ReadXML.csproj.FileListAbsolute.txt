@@ -1,0 +1,14 @@
+D:\C#\ReadXML\bin\Debug\net7.0\ReadXML.exe
+D:\C#\ReadXML\bin\Debug\net7.0\ReadXML.deps.json
+D:\C#\ReadXML\bin\Debug\net7.0\ReadXML.runtimeconfig.json
+D:\C#\ReadXML\bin\Debug\net7.0\ReadXML.dll
+D:\C#\ReadXML\bin\Debug\net7.0\ReadXML.pdb
+D:\C#\ReadXML\obj\Debug\net7.0\ReadXML.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ReadXML\obj\Debug\net7.0\ReadXML.AssemblyInfoInputs.cache
+D:\C#\ReadXML\obj\Debug\net7.0\ReadXML.AssemblyInfo.cs
+D:\C#\ReadXML\obj\Debug\net7.0\ReadXML.csproj.CoreCompileInputs.cache
+D:\C#\ReadXML\obj\Debug\net7.0\ReadXML.dll
+D:\C#\ReadXML\obj\Debug\net7.0\refint\ReadXML.dll
+D:\C#\ReadXML\obj\Debug\net7.0\ReadXML.pdb
+D:\C#\ReadXML\obj\Debug\net7.0\ReadXML.genruntimeconfig.cache
+D:\C#\ReadXML\obj\Debug\net7.0\ref\ReadXML.dll

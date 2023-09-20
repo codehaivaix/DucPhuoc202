@@ -1,0 +1,14 @@
+D:\C#\Animal\bin\Debug\net7.0\Animal.exe
+D:\C#\Animal\bin\Debug\net7.0\Animal.deps.json
+D:\C#\Animal\bin\Debug\net7.0\Animal.runtimeconfig.json
+D:\C#\Animal\bin\Debug\net7.0\Animal.dll
+D:\C#\Animal\bin\Debug\net7.0\Animal.pdb
+D:\C#\Animal\obj\Debug\net7.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Animal\obj\Debug\net7.0\Animal.AssemblyInfoInputs.cache
+D:\C#\Animal\obj\Debug\net7.0\Animal.AssemblyInfo.cs
+D:\C#\Animal\obj\Debug\net7.0\Animal.csproj.CoreCompileInputs.cache
+D:\C#\Animal\obj\Debug\net7.0\Animal.dll
+D:\C#\Animal\obj\Debug\net7.0\refint\Animal.dll
+D:\C#\Animal\obj\Debug\net7.0\Animal.pdb
+D:\C#\Animal\obj\Debug\net7.0\Animal.genruntimeconfig.cache
+D:\C#\Animal\obj\Debug\net7.0\ref\Animal.dll

@@ -1,0 +1,14 @@
+D:\C#\sumfile\bin\Debug\net7.0\sumfile.exe
+D:\C#\sumfile\bin\Debug\net7.0\sumfile.deps.json
+D:\C#\sumfile\bin\Debug\net7.0\sumfile.runtimeconfig.json
+D:\C#\sumfile\bin\Debug\net7.0\sumfile.dll
+D:\C#\sumfile\bin\Debug\net7.0\sumfile.pdb
+D:\C#\sumfile\obj\Debug\net7.0\sumfile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\sumfile\obj\Debug\net7.0\sumfile.AssemblyInfoInputs.cache
+D:\C#\sumfile\obj\Debug\net7.0\sumfile.AssemblyInfo.cs
+D:\C#\sumfile\obj\Debug\net7.0\sumfile.csproj.CoreCompileInputs.cache
+D:\C#\sumfile\obj\Debug\net7.0\sumfile.dll
+D:\C#\sumfile\obj\Debug\net7.0\refint\sumfile.dll
+D:\C#\sumfile\obj\Debug\net7.0\sumfile.pdb
+D:\C#\sumfile\obj\Debug\net7.0\sumfile.genruntimeconfig.cache
+D:\C#\sumfile\obj\Debug\net7.0\ref\sumfile.dll

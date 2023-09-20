@@ -1,0 +1,14 @@
+D:\C#\interfaceanimal\bin\Debug\net7.0\interfaceanimal.exe
+D:\C#\interfaceanimal\bin\Debug\net7.0\interfaceanimal.deps.json
+D:\C#\interfaceanimal\bin\Debug\net7.0\interfaceanimal.runtimeconfig.json
+D:\C#\interfaceanimal\bin\Debug\net7.0\interfaceanimal.dll
+D:\C#\interfaceanimal\bin\Debug\net7.0\interfaceanimal.pdb
+D:\C#\interfaceanimal\obj\Debug\net7.0\interfaceanimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\interfaceanimal\obj\Debug\net7.0\interfaceanimal.AssemblyInfoInputs.cache
+D:\C#\interfaceanimal\obj\Debug\net7.0\interfaceanimal.AssemblyInfo.cs
+D:\C#\interfaceanimal\obj\Debug\net7.0\interfaceanimal.csproj.CoreCompileInputs.cache
+D:\C#\interfaceanimal\obj\Debug\net7.0\interfaceanimal.dll
+D:\C#\interfaceanimal\obj\Debug\net7.0\refint\interfaceanimal.dll
+D:\C#\interfaceanimal\obj\Debug\net7.0\interfaceanimal.pdb
+D:\C#\interfaceanimal\obj\Debug\net7.0\interfaceanimal.genruntimeconfig.cache
+D:\C#\interfaceanimal\obj\Debug\net7.0\ref\interfaceanimal.dll

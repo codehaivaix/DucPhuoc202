@@ -1,0 +1,14 @@
+D:\C#\quanhehinhhoc\obj\Debug\net7.0\quanhehinhhoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\quanhehinhhoc\obj\Debug\net7.0\quanhehinhhoc.AssemblyInfoInputs.cache
+D:\C#\quanhehinhhoc\obj\Debug\net7.0\quanhehinhhoc.AssemblyInfo.cs
+D:\C#\quanhehinhhoc\obj\Debug\net7.0\quanhehinhhoc.csproj.CoreCompileInputs.cache
+D:\C#\quanhehinhhoc\bin\Debug\net7.0\quanhehinhhoc.exe
+D:\C#\quanhehinhhoc\bin\Debug\net7.0\quanhehinhhoc.deps.json
+D:\C#\quanhehinhhoc\bin\Debug\net7.0\quanhehinhhoc.runtimeconfig.json
+D:\C#\quanhehinhhoc\bin\Debug\net7.0\quanhehinhhoc.dll
+D:\C#\quanhehinhhoc\bin\Debug\net7.0\quanhehinhhoc.pdb
+D:\C#\quanhehinhhoc\obj\Debug\net7.0\quanhehinhhoc.dll
+D:\C#\quanhehinhhoc\obj\Debug\net7.0\refint\quanhehinhhoc.dll
+D:\C#\quanhehinhhoc\obj\Debug\net7.0\quanhehinhhoc.pdb
+D:\C#\quanhehinhhoc\obj\Debug\net7.0\quanhehinhhoc.genruntimeconfig.cache
+D:\C#\quanhehinhhoc\obj\Debug\net7.0\ref\quanhehinhhoc.dll

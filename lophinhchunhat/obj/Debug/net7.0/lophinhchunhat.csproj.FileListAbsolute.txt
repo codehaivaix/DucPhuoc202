@@ -1,0 +1,14 @@
+D:\C#\lophinhchunhat\bin\Debug\net7.0\lophinhchunhat.exe
+D:\C#\lophinhchunhat\bin\Debug\net7.0\lophinhchunhat.deps.json
+D:\C#\lophinhchunhat\bin\Debug\net7.0\lophinhchunhat.runtimeconfig.json
+D:\C#\lophinhchunhat\bin\Debug\net7.0\lophinhchunhat.dll
+D:\C#\lophinhchunhat\bin\Debug\net7.0\lophinhchunhat.pdb
+D:\C#\lophinhchunhat\obj\Debug\net7.0\lophinhchunhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\lophinhchunhat\obj\Debug\net7.0\lophinhchunhat.AssemblyInfoInputs.cache
+D:\C#\lophinhchunhat\obj\Debug\net7.0\lophinhchunhat.AssemblyInfo.cs
+D:\C#\lophinhchunhat\obj\Debug\net7.0\lophinhchunhat.csproj.CoreCompileInputs.cache
+D:\C#\lophinhchunhat\obj\Debug\net7.0\lophinhchunhat.dll
+D:\C#\lophinhchunhat\obj\Debug\net7.0\refint\lophinhchunhat.dll
+D:\C#\lophinhchunhat\obj\Debug\net7.0\lophinhchunhat.pdb
+D:\C#\lophinhchunhat\obj\Debug\net7.0\lophinhchunhat.genruntimeconfig.cache
+D:\C#\lophinhchunhat\obj\Debug\net7.0\ref\lophinhchunhat.dll

@@ -1,0 +1,14 @@
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\bin\Debug\net7.0\dotnet-read-write-file-xml-master.exe
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\bin\Debug\net7.0\dotnet-read-write-file-xml-master.deps.json
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\bin\Debug\net7.0\dotnet-read-write-file-xml-master.runtimeconfig.json
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\bin\Debug\net7.0\dotnet-read-write-file-xml-master.dll
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\bin\Debug\net7.0\dotnet-read-write-file-xml-master.pdb
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\obj\Debug\net7.0\dotnet-read-write-file-xml-master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\obj\Debug\net7.0\dotnet-read-write-file-xml-master.AssemblyInfoInputs.cache
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\obj\Debug\net7.0\dotnet-read-write-file-xml-master.AssemblyInfo.cs
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\obj\Debug\net7.0\dotnet-read-write-file-xml-master.csproj.CoreCompileInputs.cache
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\obj\Debug\net7.0\dotnet-read-write-file-xml-master.dll
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\obj\Debug\net7.0\refint\dotnet-read-write-file-xml-master.dll
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\obj\Debug\net7.0\dotnet-read-write-file-xml-master.pdb
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\obj\Debug\net7.0\dotnet-read-write-file-xml-master.genruntimeconfig.cache
+C:\Users\vuduc\Downloads\dotnet-read-write-file-xml-master\dotnet-read-write-file-xml-master\obj\Debug\net7.0\ref\dotnet-read-write-file-xml-master.dll

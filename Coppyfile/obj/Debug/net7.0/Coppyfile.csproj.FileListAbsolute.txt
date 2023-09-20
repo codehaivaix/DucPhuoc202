@@ -1,0 +1,14 @@
+D:\C#\Coppyfile\bin\Debug\net7.0\Coppyfile.exe
+D:\C#\Coppyfile\bin\Debug\net7.0\Coppyfile.deps.json
+D:\C#\Coppyfile\bin\Debug\net7.0\Coppyfile.runtimeconfig.json
+D:\C#\Coppyfile\bin\Debug\net7.0\Coppyfile.dll
+D:\C#\Coppyfile\bin\Debug\net7.0\Coppyfile.pdb
+D:\C#\Coppyfile\obj\Debug\net7.0\Coppyfile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Coppyfile\obj\Debug\net7.0\Coppyfile.AssemblyInfoInputs.cache
+D:\C#\Coppyfile\obj\Debug\net7.0\Coppyfile.AssemblyInfo.cs
+D:\C#\Coppyfile\obj\Debug\net7.0\Coppyfile.csproj.CoreCompileInputs.cache
+D:\C#\Coppyfile\obj\Debug\net7.0\Coppyfile.dll
+D:\C#\Coppyfile\obj\Debug\net7.0\refint\Coppyfile.dll
+D:\C#\Coppyfile\obj\Debug\net7.0\Coppyfile.pdb
+D:\C#\Coppyfile\obj\Debug\net7.0\Coppyfile.genruntimeconfig.cache
+D:\C#\Coppyfile\obj\Debug\net7.0\ref\Coppyfile.dll

@@ -1,0 +1,14 @@
+D:\C#\CSV\obj\Debug\net7.0\CSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CSV\obj\Debug\net7.0\CSV.AssemblyInfoInputs.cache
+D:\C#\CSV\obj\Debug\net7.0\CSV.AssemblyInfo.cs
+D:\C#\CSV\obj\Debug\net7.0\CSV.csproj.CoreCompileInputs.cache
+D:\C#\CSV\bin\Debug\net7.0\CSV.exe
+D:\C#\CSV\bin\Debug\net7.0\CSV.deps.json
+D:\C#\CSV\bin\Debug\net7.0\CSV.runtimeconfig.json
+D:\C#\CSV\bin\Debug\net7.0\CSV.dll
+D:\C#\CSV\bin\Debug\net7.0\CSV.pdb
+D:\C#\CSV\obj\Debug\net7.0\CSV.dll
+D:\C#\CSV\obj\Debug\net7.0\refint\CSV.dll
+D:\C#\CSV\obj\Debug\net7.0\CSV.pdb
+D:\C#\CSV\obj\Debug\net7.0\CSV.genruntimeconfig.cache
+D:\C#\CSV\obj\Debug\net7.0\ref\CSV.dll
